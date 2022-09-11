@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/robotopunks/static/css/main.49c89cfd.css",
+    "main.js": "/robotopunks/static/js/main.50f7a11f.js",
+    "static/media/parallax-bg.gif": "/robotopunks/static/media/parallax-bg.a753668321d10848110d.gif",
+    "index.html": "/robotopunks/index.html",
+    "main.49c89cfd.css.map": "/robotopunks/static/css/main.49c89cfd.css.map",
+    "main.50f7a11f.js.map": "/robotopunks/static/js/main.50f7a11f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49c89cfd.css",
+    "static/js/main.50f7a11f.js"
+  ]
+}
